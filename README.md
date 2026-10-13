@@ -1,10 +1,6 @@
 [github-profile-1791897932846.json](https://github.com/user-attachments/files/33387167/github-profile-1791897932846.json)
 
-# Hi 👋, I'm SavioLmt
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SavioLmt&label=Profile views&color=0e75b6&style=flat" alt="SavioLmt" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SavioLmt" alt="SavioLmt" /></a> </p>
+Salut, je suis SavioLmt
 
 - 🔭 I'm currently working on **Helha **
 
