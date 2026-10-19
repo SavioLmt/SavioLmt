@@ -1,5 +1,3 @@
-[github-profile-1791897932846.json](https://github.com/user-attachments/files/33387167/github-profile-1791897932846.json)
-
 Salut, je suis SavioLmt
 
 - 🔭 I'm currently working on **Helha **
