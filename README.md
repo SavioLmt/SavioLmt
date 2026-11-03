@@ -1,6 +1,6 @@
 Salut, je suis SavioLmt
 
-- 🔭 I'm currently working on **Helha **
+- 🔭 I'm currently studying at **Helha **
 
 - 🌱 I'm currently learning **Computer Science**
 
