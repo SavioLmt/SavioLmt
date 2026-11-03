@@ -4,7 +4,7 @@ Salut, je suis SavioLmt
 
 - 🌱 I'm currently learning **Computer Science**
 
-- 👯 I'm looking to collaborate on **open source project**
+- 👯 I'm looking to collaborate on an **open source project**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/SavioLmt](https://github.com/SavioLmt)**
 
